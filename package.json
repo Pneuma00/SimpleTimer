@@ -1,0 +1,25 @@
+{
+  "name": "simpletimer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pneuma714/SimpleTimer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pneuma714/SimpleTimer/issues"
+  },
+  "homepage": "https://github.com/Pneuma714/SimpleTimer#readme",
+  "dependencies": {
+    "electron": "^15.1.1"
+  },
+  "devDependencies": {
+    "electron-builder": "^22.11.7"
+  }
+}
